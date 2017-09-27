@@ -24,7 +24,7 @@ platzo("Programar") // Program
 ```
 
 ## Créditos
-- [Hernán Giraldo](https://twitter.com/hernangiraldo89)
+- [Hernán Giraldo](https://twitter.com/hernan__giraldo)
 
 ## License
 
