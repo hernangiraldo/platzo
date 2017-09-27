@@ -1,0 +1,27 @@
+{
+  "name": "platzo",
+  "version": "0.1.0",
+  "description": "Proyecto de practica",
+  "main": "dist/src/platzo.js",
+  "scripts": {
+    "build": "babel src/platzo.js -d dist",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hernangiraldo89/platzo.git"
+  },
+  "keywords": [
+    "fundamentos",
+    "javascript",
+    "js"
+  ],
+  "author": "Hernán Giraldo <hernan.giraldo.giraldo@gmail.com> (https://twitter.com/hernan__giraldo)",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.0",
+    "chai": "^4.1.2",
+    "mocha": "^3.5.3"
+  }
+}
