@@ -18,7 +18,7 @@ npm install platzo
 ## Uso
 
 ```
-import platzo form 'platzo'
+import platzo from 'platzo'
 
 platzo("Programar") // Program
 ```
