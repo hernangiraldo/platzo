@@ -1,8 +1,8 @@
-# Platzo
+# Platzo
 
 Platzo es un proyecto de práctica para el curso de [Fundamentos de JS](https://platzi.com/js).
 
-## Descripción del idioma:
+## Descripción del idioma:
 
 - Si la palabra termina con el "ar", se le quitan esas dos letras.
 - Si la palabra inicia con z, se le añade "pe" al final.
@@ -21,7 +21,7 @@ npm install platzo
 import platzo form 'platzo'
 
 platzo("Programar") // Program
-``
+```
 
 ## Créditos
 - [Hernán Giraldo](https://twitter.com/hernangiraldo89)
